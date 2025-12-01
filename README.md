@@ -1,0 +1,1 @@
+* I have provided the configuration using Kotlin DSL (build.gradle.kts). This is the modern standard for Spring Boot 3+ projects because it offers better type safety and IDE autocompletion than the older Groovy syntax.
